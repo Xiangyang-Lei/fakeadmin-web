@@ -17,6 +17,6 @@ AdminHub-Web 是 AdminHub 的前端项目。
 | | 前端 |
 | :----- | :----: |
 | 语言 | JavaScript |
-| 框架 | React, MUI |
-| 工具 | Yarn |
+| 框架 | Vue.js, Element |
+| 工具 | NPM |
 
